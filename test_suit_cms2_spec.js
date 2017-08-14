@@ -41,7 +41,7 @@ describe('Test Suit cms2cms authorization', function() {
 		browser.driver.findElement(by.className('google-plus soc-sprite')).click();
 		browser.driver.findElement(by.id('identifierId')).sendKeys('teststasiuk@gmail.com');
 		browser.driver.findElement(by.className('RveJvd snByac')).click();
-		browser.driver.findElement(by.className('whsOnd zHQkBf')).sendKeys('never_give1up');
+		browser.driver.findElement(by.className('whsOnd zHQkBf')).sendKeys('***********');
 		browser.driver.findElement(by.className('RveJvd snByac')).click();
 		
 		
